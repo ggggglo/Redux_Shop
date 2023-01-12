@@ -1,5 +1,5 @@
 # Redux Shop
-Refactored e-commerce platform from Activity 26, Module 22,so that it uses Redux
+Refactored e-commerce platform from Activity 26, Module 22, so that it uses Redux
 
 # Ojectives
 - An e-commerce platform that uses Redux to manage global state
@@ -39,5 +39,5 @@ Refactored e-commerce platform from Activity 26, Module 22,so that it uses Redux
 ![Home](./client/assets/1.png)
 ![Select](./client/assets/2.png)
 ![Filter](./client/assets/3.png)
-![Signup](./client/assets/2.png)
-![LoggedIn](./client/assets/2.png)
+![Signup](./client/assets/4.png)
+![LoggedIn](./client/assets/5.png)
